@@ -1,0 +1,16 @@
+{
+  "name": "glozzom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d glozzom"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://KelvinMitaki.github.io/glozzom",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
